@@ -104,19 +104,19 @@ def save_house_info():
 
     # 保存数据
     house = House(
-        user_id = user_id,
-        area_id = area_id,
-        title = title,
-        price = price,
-        address = address,
-        room_count = room_count,
-        acreage = acreage,
-        unite = unit,
-        capacity = capacity,
-        beds = beds,
-        deposit = deposit,
-        min_days = min_days,
-        max_days = max_days
+        user_id=user_id,
+        area_id=area_id,
+        title=title,
+        price=price,
+        address=address,
+        room_count=room_count,
+        acreage=acreage,
+        unite=unit,
+        capacity=capacity,
+        beds=beds,
+        deposit=deposit,
+        min_days=min_days,
+        max_days=max_days
     )
 
     # 处理房屋设施信息.1:5000/api/v1.0/houses/image

@@ -127,7 +127,6 @@ def get_image_code(image_code_id):
 #         return jsonify(errno=RET.THIRDERR, errmsg="发送错误")
 
 
-
 # GET /api/v1.0/sms_codes/<mobile>?image_code=xxxx&image_code_id=xxxx
 @api.route("/sms_codes/<re(r'1[34578]\d{9}'):mobile>")
 def get_sms_code(mobile):

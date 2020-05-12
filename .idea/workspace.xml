@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ffe45d-ab35-40ed-8f8d-178f752d7242" name="Default Changelist" comment="" />
+    <list default="true" id="e7ffe45d-ab35-40ed-8f8d-178f752d7242" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/houses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/verify_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/verify_code.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +19,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SYT5gDdURJRgpPbT8sdTTqOd2V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/aaron_ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.image_storage">
@@ -77,18 +85,6 @@
         <item itemvalue="Python.SendTemplateSMS" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -161,11 +157,12 @@
       <workItem from="1581751995625" duration="478000" />
       <workItem from="1581752505488" duration="52000" />
       <workItem from="1581752681183" duration="1269000" />
+      <workItem from="1589270388521" duration="3860000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="548" y="242" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581753903931">

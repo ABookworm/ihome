@@ -19,8 +19,10 @@ class Config(object):
     # flask-session config: Maybe different with the first redis database
     SESSION_TYPE = "redis"
     SESSION_REDIS = redis.StrictRedis(host=REDIS_HOST, port=REDIS_PORT)
+
     # 对cookies 中 session_id 进行隐藏处理
     SESSION_USE_SIGNER = True
+
     # session数据的有效期，单位秒
     PERMANENT_SESSION_LIFETIME = 86400
 
