@@ -1,6 +1,10 @@
 # ihome
-Only for Python Learning 
 
-and all of the files are uploaded from local hardpan urgency
+## Content
 
-so there may lost the `.gitignore` files and only contain the master branch.
+Hi, This is a project for Learning of Python. just a little project.
+
+## Description
+
+It is a platform to rent a house.
+
