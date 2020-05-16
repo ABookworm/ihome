@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ffe45d-ab35-40ed-8f8d-178f752d7242" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/houses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ihome/api_1_0/pay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ihome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ihome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ihome/api_1_0/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihome/api_1_0/verify_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/ihome/api_1_0/verify_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.image_storage">
     <configuration name="SendTemplateSMS" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -157,7 +159,9 @@
       <workItem from="1581751995625" duration="478000" />
       <workItem from="1581752505488" duration="52000" />
       <workItem from="1581752681183" duration="1269000" />
-      <workItem from="1589270388521" duration="3860000" />
+      <workItem from="1589270388521" duration="4785000" />
+      <workItem from="1589302749365" duration="3000" />
+      <workItem from="1589645027692" duration="1595000" />
     </task>
     <servers />
   </component>
@@ -169,10 +173,13 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="548" y="242" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581753903931" />
+    <state x="481" y="111" key="SettingsEditor" timestamp="1589645289257">
+      <screen x="67" y="27" width="1851" height="901" />
+    </state>
+    <state x="481" y="111" key="SettingsEditor/67.27.1851.901@67.27.1851.901" timestamp="1589645289257" />
     <state x="500" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1581752827917">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="369" y="225" key="com.intellij.ide.util.TipDialog/67.27.1293.741@67.27.1293.741" timestamp="1580123787343" />
     <state x="500" y="308" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581752827917" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

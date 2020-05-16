@@ -33,12 +33,13 @@ def save_order():
     # 日期格式检查
     try:
         # 将请求的时间参数字符串转换为datetime类型
-        start_date = datetime.datetime.strptime(start_date_str, "%Y-%m-%d")
-        end_date = datetime.datetime.strptime(end_date_str, "%Y-%m-%d")
+        start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
+        end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
 
         assert start_date <= end_date:
             # 计算预定的天数
             days = (end_date - start_date).day + 1
+
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=RET.PARAMERR, errmsg="日期格式错误")
